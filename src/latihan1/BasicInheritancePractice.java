@@ -2,13 +2,6 @@ package latihan1;
 
 public class BasicInheritancePractice {
     public static void main(String[] args) {
-        /*
-         * PRAKTIK HANDS-ON: Basic Inheritance
-         *
-         * Instruksi: Lengkapi semua latihan di bawah ini untuk menguasai
-         * konsep dasar inheritance, penggunaan super, dan hierarki class.
-         */
-
         // ===== INHERITANCE DASAR =====
         System.out.println("=== INHERITANCE DASAR ===");
 
