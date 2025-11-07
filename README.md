@@ -1,4 +1,4 @@
-# Java Operators Handson Practice
+# Handson Practice: Inheritance
 
 **Nama:** [Jann Raphael Cornelius Silalahi]
 
